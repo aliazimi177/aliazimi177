@@ -1,4 +1,6 @@
 ### Hi there 👋
+I am a Computer Science student interested in all things Python!
+
 
 <!--
 **aliazimi177/aliazimi177** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
